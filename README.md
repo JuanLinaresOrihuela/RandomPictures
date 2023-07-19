@@ -1,8 +1,8 @@
-Random Pictures
+## Random Pictures
 
 Submitted by: Juan Linares Orihuela
 
-Random Pictures is an app that changes the background color randomly when the user taps the button color time. This app could be used as a fidgeting app, that way the user can find some entertainment and awesome colors while tapping the screen.
+The Random Pictures app is a simple Swift application designed to help me practice and gain a better understanding of the Swift language and iOS development. Its primary purpose is to generate random pictures from the Unsplash library.
 
 Time spent: 2 hours
 
@@ -10,7 +10,7 @@ Time spent: 2 hours
 
 Here's a walkthrough of implemented user stories:
 
-![RandomPictures](https://github.com/JuanLinaresOrihuela/CodePath-Prework/assets/122564427/43af9807-c0f4-4040-9bfd-b6989748a0d2.gif)
+![RandomPictures](https://github.com/JuanLinaresOrihuela/RandomPictures/assets/122564427/dfe61d72-56ff-4680-9a06-bf074ccb0b4c.gif)
 
 ## Notes
 
