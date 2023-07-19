@@ -16,9 +16,11 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
-· I wasn't able to figure out how to center the title "Random Pictures"
-· Learning Github and Git while working on the project
-· Make an interesting README page where people can understand the project
+- I wasn't able to figure out how to center the title "Random Pictures"
+
+- Learning Github and Git while working on the project
+  
+- Make an interesting README page where people can understand the project
 
 ## License
 
